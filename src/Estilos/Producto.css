@@ -1,0 +1,38 @@
+.title{
+    font-size:smaller;
+    max-width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 10px;
+    text-align: center;
+    
+}
+.box{
+    max-width: 100%;
+    max-height:100%;
+    align-items: center;
+    border-color: white;
+    margin-top: 10px;    
+}
+.card{
+    max-width: 260px;
+    max-height:400px;
+    filter: drop-shadow(0 0 5px gray);
+    margin-bottom: 15px;
+    margin-top: 30px;
+    margin-left: 2px;
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 20%;
+    align-items: center;
+}
+.card:hover {
+    color: orange;
+}
+.buttons {
+    size: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
