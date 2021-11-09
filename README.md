@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+AUTOS ABM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto realizado en React JS para el front y Firebase para el back. Debe descargarse el proyecto en una carpeta. Una vez parados en la carpeta elegida, ejecutar por consola o terminal, PowerShell en Windows en el caso de utilizar VSC como editor de código, el comando npm install para reconstruir la carpeta node modules. Una vez agregada esta carpeta al proyecto, se debe ejecutar npm start para inicialo en el localHost.
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
